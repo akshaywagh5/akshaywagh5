@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Akshay Wagh</h1>
-<h3 align="center">🚀 Data Analyst | Power BI | SQL | Python | Excel</h3>
+<h3 align="center">🚀 Data Analyst</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
 </p>
 
 <p align="center">🌱 <b>Currently learning and working with:</b> Excel, Power BI, SQL, and Python</p>  
