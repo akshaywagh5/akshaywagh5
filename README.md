@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Akshay Wagh</h1>
 <h3 align="center">🚀 Data Analyst</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-s6&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-s6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaywagh5&label=Profile%20views&color=0e75b6&style=flat" alt="akshaywagh5" /> </p>
 
 
 <p align="center">
