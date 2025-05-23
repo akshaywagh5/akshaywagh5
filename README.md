@@ -9,17 +9,25 @@
 
 <h2 align="center">🌐 Portfolio</h2>
 <p align="center">
+
+
+<p align="center">🌱 <b>Currently learning and working with:</b> Excel, Power BI, SQL, and Python</p>  
+<p align="center">📧 <b>How to reach me:</b> <a href="mailto:waghakshay900@gmail.com">waghakshay900@gmail.com</a></p>  
+<p align="center">⚡ <b>Fun fact:</b> A <b>Chemical Engineer</b> turned <b>IT Professional</b></p>  
+
+
+---
+
+<h2 align="center">🌐 Portfolio</h2>
+<p align="center">
 Take a look at my latest data projects and achievements here:<br><br>
 <a href="https://codebasics.io/portfolio/AKSHAY-BHASKAR-WAGH" target="_blank">
   <img src="https://img.shields.io/badge/View%20Portfolio-00BFFF?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio Badge"/>
 </a>
 </p>
 
-<p align="center">🌱 <b>Currently learning and working with:</b> Excel, Power BI, SQL, and Python</p>  
-<p align="center">📧 <b>How to reach me:</b> <a href="mailto:waghakshay900@gmail.com">waghakshay900@gmail.com</a></p>  
-<p align="center">⚡ <b>Fun fact:</b> A <b>Chemical Engineer</b> turned <b>IT Professional</b></p>  
-
 ---
+
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
