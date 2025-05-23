@@ -7,9 +7,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
 </p>
 
-<h2 align="center">🌐 Portfolio</h2>
-<p align="center">
-
 
 <p align="center">🌱 <b>Currently learning and working with:</b> Excel, Power BI, SQL, and Python</p>  
 <p align="center">📧 <b>How to reach me:</b> <a href="mailto:waghakshay900@gmail.com">waghakshay900@gmail.com</a></p>  
