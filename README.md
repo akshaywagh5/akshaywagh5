@@ -59,6 +59,11 @@ Take a look at my latest data projects and achievements here:<br><br>
 </p>  
 
 ---
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <p align="center"><b><i>Let's turn data into actionable insights!</i></b> ✨</p>
 
