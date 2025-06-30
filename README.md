@@ -30,6 +30,13 @@ Take a look at my latest data projects and achievements here:<br><br>
 
 ---
 
+<h2 align="center">📄 My Resume</h2>
+<p align="center">
+  <a href="https://github.com/akshaywagh5/your-repo-name/raw/main/Akshay_Wagh_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
+  </a>
+</p>
+---
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
@@ -69,7 +76,7 @@ Take a look at my latest data projects and achievements here:<br><br>
 <p align="center"><b><i>Let's turn data into actionable insights!</i></b> ✨</p>
 
 <p align="center">
-🎯 <b>Want to collaborate?</b><i> Feel free to <i><b>connect & reach out!</b> 🎯  
+🎯 <b>Want to collaborate?</b> <i>Feel free to connect & reach out!</i> 🎯
 </p>
 
 ---
