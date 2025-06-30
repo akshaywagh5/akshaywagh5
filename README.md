@@ -70,7 +70,12 @@ Take a look at my latest data projects and achievements here:<br><br>
 ---
 
 ## 🏆 GitHub Trophy
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover">
+  </a>
+</div>
+
 
 ---
