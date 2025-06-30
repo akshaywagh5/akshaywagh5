@@ -76,6 +76,3 @@ Take a look at my latest data projects and achievements here:<br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover">
   </a>
 </div>
-
-
----
