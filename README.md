@@ -32,10 +32,11 @@ Take a look at my latest data projects and achievements here:<br><br>
 
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
-  <a href="https://github.com/akshaywagh5/your-repo-name/raw/main/Akshay_Wagh_Resume.pdf" target="_blank">
+  <a href="https://github.com/akshaywagh5/akshaywagh5/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
   </a>
 </p>
+
 ---
 
 <h2 align="center">📫 Connect with me</h2>
