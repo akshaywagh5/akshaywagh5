@@ -18,7 +18,7 @@
 <h2 align="center">🌐 Portfolio</h2>
 <p align="center">
 Take a look at my latest data projects and achievements here:<br><br>
-<a href="https://codebasics.io/portfolio/AKSHAY-BHASKAR-WAGH" target="_blank">
+<a href="https://akshay-wagh-da.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/View%20Portfolio-00BFFF?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio Badge"/>
 </a>
 </p>
@@ -59,16 +59,18 @@ Take a look at my latest data projects and achievements here:<br><br>
 </p>  
 
 ---
-## 🏆 GitHub Trophy
 
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 <p align="center"><b><i>Let's turn data into actionable insights!</i></b> ✨</p>
 
 <p align="center">
 🎯 <b>Want to collaborate?</b><i> Feel free to <i><b>connect & reach out!</b> 🎯  
 </p>
+
+---
+
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
