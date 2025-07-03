@@ -79,13 +79,3 @@ Take a look at my latest data projects and achievements here:<br><br>
 <p align="center">
 🎯 <b>Want to collaborate?</b> <i>Feel free to connect & reach out!</i> 🎯
 </p>
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshaywagh5&theme=dark_lover">
-  </a>
-</div>
